@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:joshmanaloo/react-tutorial/static/css/main.3fa7586b.chunk.css",
+    "main.js": "/git@github.com:joshmanaloo/react-tutorial/static/js/main.f8048190.chunk.js",
+    "main.js.map": "/git@github.com:joshmanaloo/react-tutorial/static/js/main.f8048190.chunk.js.map",
+    "runtime-main.js": "/git@github.com:joshmanaloo/react-tutorial/static/js/runtime-main.5cd89603.js",
+    "runtime-main.js.map": "/git@github.com:joshmanaloo/react-tutorial/static/js/runtime-main.5cd89603.js.map",
+    "static/js/2.5ccea08f.chunk.js": "/git@github.com:joshmanaloo/react-tutorial/static/js/2.5ccea08f.chunk.js",
+    "static/js/2.5ccea08f.chunk.js.map": "/git@github.com:joshmanaloo/react-tutorial/static/js/2.5ccea08f.chunk.js.map",
+    "index.html": "/git@github.com:joshmanaloo/react-tutorial/index.html",
+    "precache-manifest.8fedc08a19cf5bc19ddc81c4179c5ebb.js": "/git@github.com:joshmanaloo/react-tutorial/precache-manifest.8fedc08a19cf5bc19ddc81c4179c5ebb.js",
+    "service-worker.js": "/git@github.com:joshmanaloo/react-tutorial/service-worker.js",
+    "static/css/main.3fa7586b.chunk.css.map": "/git@github.com:joshmanaloo/react-tutorial/static/css/main.3fa7586b.chunk.css.map",
+    "static/js/2.5ccea08f.chunk.js.LICENSE.txt": "/git@github.com:joshmanaloo/react-tutorial/static/js/2.5ccea08f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cd89603.js",
+    "static/js/2.5ccea08f.chunk.js",
+    "static/css/main.3fa7586b.chunk.css",
+    "static/js/main.f8048190.chunk.js"
+  ]
+}
